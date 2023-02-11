@@ -3,7 +3,9 @@ Project Self Cashier Service Pacmann dari Rakan Abyan di kelas Python
 
 ## Latar Belakang Permasalahan
 
+Mesin kasir mandiri alias _self-service cashier_ adalah sebuah mesin yang berfungsi untuk menyelesaikan transaksi customer sendiri tanpa memerlukan kasir tradisional. Saat menggunakan mesin kasir mandiri, _customer_ dapat memasukan nama barang satu per satu sebelum membayar belanjaannya tanpa memerlukan bantuan staf. Mesin tersebut umunya digunakan di supermarket, toserba, bahkan di Jerman, beberapa toko bangunan sudah menggunakan _self-service cashier_. Mesin tersebut biasanya diawasi oleh satu atau dua staf yang berfungsi untuk membantu pelanggan dalam proses transaksi, koreksi harga dan jumlah barang, bahkan hingga mengecek kembali barang-barang yang belum direkap oleh customer itu sendiri.
 
+Kali ini, penulis akan mendeskripsikan program mesin kasir mandiri sederhana dengan menggunakan bahasa pemrograman Python.  
 
 ## Tujuan Project Self Cashier
 1. Membuat Program Cashier sederhana dalam bahasa pemograman Python yang mempunyai fitur berikut: 
