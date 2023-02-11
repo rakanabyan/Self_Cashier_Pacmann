@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[21]:
-
-
 from cashier import transaction
 import sys
 def program(obj):
@@ -165,16 +159,6 @@ def program(obj):
 
 tr1 = transaction()
 program(tr1)
-
-
-# In[20]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
