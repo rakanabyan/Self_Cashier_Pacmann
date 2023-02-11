@@ -18,7 +18,9 @@ Kali ini, penulis akan mendeskripsikan program mesin kasir mandiri sederhana den
   - Mengecek sebuah transaksi
   - Melakukan pembayaran
   
-2. Mengimplementasikan beberapa materi dalam kelas Python:
+2. Mengimplementasikan beberapa materi dalam kelas Python, diantaranya:
+  - Operasi aritmatika dalam Python
+  - Penggunaan Dictionary dalam Python
   - _Function_
   - _Branching_
   - _Object-Oriented Programming_
