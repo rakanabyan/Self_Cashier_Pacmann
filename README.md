@@ -7,7 +7,7 @@ Mesin kasir mandiri alias _self-service cashier_ adalah sebuah mesin yang berfun
 
 Kali ini, penulis akan mendeskripsikan program mesin kasir mandiri sederhana dengan menggunakan bahasa pemrograman Python.  
 
-## Tujuan Project Self Cashier
+## Tujuan Self Cashier
 1. Membuat Program Cashier sederhana dalam bahasa pemograman Python yang mempunyai fitur berikut: 
   - Memasukkan nama Barang, beserta jumlah dan harga barang secara manual
   - Mengubah nama sebuah barang yang akan dibeli
