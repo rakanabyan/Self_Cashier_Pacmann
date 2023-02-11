@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
 
 #cashier.py
 """ Self-Service Cashier @ PACMANN-MARKET """
@@ -154,10 +149,3 @@ class transaction():
         
     def exit(self):
         print("Thank you for your coming! See You Later")
-
-
-# In[ ]:
-
-
-
-
