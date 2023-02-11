@@ -87,7 +87,15 @@ Kali ini, penulis akan mendeskripsikan program mesin kasir mandiri sederhana den
  
  ![Pay it](https://user-images.githubusercontent.com/92530633/218282327-e9eae38c-38ba-46a0-9da9-26fc361fac5f.png)
 
+## Saran dan Perbaikan
 
+1. Membutuhkan fitur exit untuk mengakhiri secara langsung transaksi di mesin kasir mandiri dengan syarat program harus bisa menolak permintaan customer, apabila program menemukan paling sedikit satu barang dalam sebuah transaksi. 
+2. Dapat menyesuaikan nama barang dengan satuan massa barang atau volume, misal ada pilihan suatu barang bisa dibayar berdasarkan per item, per liter atau per gram. 
+3. Perlu menyesuaikan nama barang dengan nomor barcode barang, agar program ini bisa dikembangkan di masa mendatang.
+
+Rakan Abyan
+
+Marburg, 2023 
 
 
  
